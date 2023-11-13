@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprachfeatures", "Sprachfea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{C146A912-8AEA-403B-8F74-C869B62E50F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
