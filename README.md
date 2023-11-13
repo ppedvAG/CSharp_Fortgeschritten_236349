@@ -1,4 +1,4 @@
-C# Fortgeschritten vom 16.10.2023 bis 23.10.2023. Trainer: Lukas Kern (LukasK@ppedv.de).
+C# Fortgeschritten vom 13.11.2023 bis 15.11.2023. Trainer: Lukas Kern (LukasK@ppedv.de).
 
 ## M000 | GETTING STARTED
 - [ ] Intro
@@ -12,7 +12,7 @@ C# Fortgeschritten vom 16.10.2023 bis 23.10.2023. Trainer: Lukas Kern (LukasK@pp
 - [ ] C# 9.0
 
 
-## M002 | C# 10 und aktuelle Version C# 11
+## M002 | C# 10 bis C# 11
 
 - [ ] C# 10
 - [ ] C# 11
