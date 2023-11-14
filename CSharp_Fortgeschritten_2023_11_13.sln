@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{066FBD69-F1C5-4DF0-B93E-CDE5153C27DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprachfeatures", "Sprachfeatures\Sprachfeatures.csproj", "{066FBD69-F1C5-4DF0-B93E-CDE5153C27DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{3B931CAF-A8CE-4772-BBC4-1E3AF60F49B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{01C8E800-D50B-4837-A2A4-2ED3FCB935E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{C146A912-8AEA-403B-8F74-C869B62E50F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{C146A912-8AEA-403B-8F74-C869B62E50F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{B5E01644-8074-4075-A661-3B6301F4D1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{36092393-D933-4991-A9E5-89C680F46B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{2D0AD92C-E0BD-4124-AAFF-CAC035B74774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{5507DA96-3FDD-409E-AB9D-0294A1BD1305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{4134CD51-0D2B-4368-B962-6A0B028ED3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C146A912-8AEA-403B-8F74-C869B62E50F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E01644-8074-4075-A661-3B6301F4D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E01644-8074-4075-A661-3B6301F4D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E01644-8074-4075-A661-3B6301F4D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E01644-8074-4075-A661-3B6301F4D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36092393-D933-4991-A9E5-89C680F46B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36092393-D933-4991-A9E5-89C680F46B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36092393-D933-4991-A9E5-89C680F46B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36092393-D933-4991-A9E5-89C680F46B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0AD92C-E0BD-4124-AAFF-CAC035B74774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0AD92C-E0BD-4124-AAFF-CAC035B74774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0AD92C-E0BD-4124-AAFF-CAC035B74774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0AD92C-E0BD-4124-AAFF-CAC035B74774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4134CD51-0D2B-4368-B962-6A0B028ED3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4134CD51-0D2B-4368-B962-6A0B028ED3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4134CD51-0D2B-4368-B962-6A0B028ED3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4134CD51-0D2B-4368-B962-6A0B028ED3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
