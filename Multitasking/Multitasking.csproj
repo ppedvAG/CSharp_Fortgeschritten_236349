@@ -4,7 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>disable</Nullable>
+    <Nullable>enable</Nullable>
+    <StartupObject>Multitasking._06_ParallelForDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
