@@ -39,7 +39,7 @@ public class ActionFunc
 
 		func += Dividiere;
 		double d5 = func(3, 4); //Die letzte angehängte Methode ist das Ergebnis
-								//Schleife auf GetInvocationList(), jedes Delegate in diesem Array ausführen
+		//Schleife auf GetInvocationList(), jedes Delegate in diesem Array ausführen
 
 		DoFunc(4, 5, func);
 		DoFunc(4, 5, Multipliziere);
