@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreading", "Multithre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitasking", "Multitasking\Multitasking.csproj", "{5507DA96-3FDD-409E-AB9D-0294A1BD1305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{D1275B69-0A62-40FE-92E0-CA1676CD1108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitWPF", "AsyncAwaitWPF\AsyncAwaitWPF.csproj", "{54E47062-3B0E-4DC7-AE71-9E71273A9B25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5507DA96-3FDD-409E-AB9D-0294A1BD1305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1275B69-0A62-40FE-92E0-CA1676CD1108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1275B69-0A62-40FE-92E0-CA1676CD1108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1275B69-0A62-40FE-92E0-CA1676CD1108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1275B69-0A62-40FE-92E0-CA1676CD1108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E47062-3B0E-4DC7-AE71-9E71273A9B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E47062-3B0E-4DC7-AE71-9E71273A9B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E47062-3B0E-4DC7-AE71-9E71273A9B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E47062-3B0E-4DC7-AE71-9E71273A9B25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
